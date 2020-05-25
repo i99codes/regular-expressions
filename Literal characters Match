@@ -6,3 +6,4 @@ World in one and we have to live with harmony
 If I want to match the "have" then i have type /have/ to match it literally
 If i want to match a " " (space) then i have to type / / to match all the spaces literally
 
+Note :- Literal characters are case sensitive
